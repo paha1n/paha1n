@@ -12,7 +12,7 @@ __**Спасибо, что открыл мой профиль.**__
 ---
 ### Информация
 - YouTube: __**``Не указано``**__
-- <img height="10" src="https://e7.pngegg.com/pngimages/122/199/png-clipart-computer-icons-vkontakte-vk-angle-text.png">VK: __**``Не указано``**__
+- <img height="40" src="https://e7.pngegg.com/pngimages/122/199/png-clipart-computer-icons-vkontakte-vk-angle-text.png">VK: __**``Не указано``**__
 - Steam: __**``Не указано``**__
 - Discord Server: __**``Не указано``**__
 

@@ -7,7 +7,7 @@
 - JS разработчик.
 
 <a href="https://discord.gg/BUnYTtA3YB">
-  <img src="http://invidget.switchblade.xyz/gbAC9sa" />
+  <img src="http://invidget.switchblade.xyz/BUnYTtA3YB" />
 </a>
 
 ---

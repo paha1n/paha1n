@@ -12,7 +12,7 @@ __**Спасибо, что открыл мой профиль.**__
 ---
 ### Информация
 - YouTube: __**``Не указано``**__
-- <img height="40" src="https://e7.pngegg.com/pngimages/122/199/png-clipart-computer-icons-vkontakte-vk-angle-text.png">VK: __**``Не указано``**__
+- <img height="12" src="https://e7.pngegg.com/pngimages/122/199/png-clipart-computer-icons-vkontakte-vk-angle-text.png">VK: __**``Не указано``**__
 - Steam: __**``Не указано``**__
 - Discord Server: __**``Не указано``**__
 
@@ -24,7 +24,7 @@ __**Спасибо, что открыл мой профиль.**__
 ---
 ### **Изучаемые языки**
 
-<img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 ---
 ### **Различная статистика**

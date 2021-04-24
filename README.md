@@ -1,16 +1,26 @@
-### Hi there 👋
+## Привет 👋
 
-<!--
-**ViNardle/ViNardle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Спасибо, что открыл мой профиль. Я — обычный человек, увлекающийся кодингом.
 
-Here are some ideas to get you started:
+### Мои небольшие достижения
+- Создатель крупного СНГ бота [JeggyBot](https://www.jeggybot.ml).
+- Модератор на [BotiCord](https://boticord.top) и некоторых других Discord серверах.
+- Frontend и JS разработчик.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://discord.gg/gbAC9sa">
+  <img src="http://invidget.switchblade.xyz/gbAC9sa" />
+</a>
+
+---
+### **Изучаемые языки**
+
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="40"
+
+---
+### **Различная статистика**
+
+![stats](https://github-readme-stats.vercel.app/api?username=MrVaDiM4iK&show_icons=true&theme=dark)
+<br />
+<a href="https://wakatime.com/@MrVaDiM4iK">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrVaDiM4iK&show_icons=true&hide_border=false&theme=dark&layout=compact">
+</a>

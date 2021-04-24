@@ -12,8 +12,8 @@ __**Спасибо, что открыл мой профиль.**__
 ---
 ### Информация
 - YouTube: __**``Не указано``**__
-- <img height="12" src="https://e7.pngegg.com/pngimages/122/199/png-clipart-computer-icons-vkontakte-vk-angle-text.png">VK: __**``Не указано``**__
-- <img height="12" src="https://w7.pngwing.com/pngs/186/621/png-transparent-steam-logo-illustration-playerunknown-s-battlegrounds-steam-logo-video-game-computer-icons-steam-logo-icon-miscellaneous-scalable-vector-graphics-steam-machine.png">Steam: __**``Не указано``**__
+- VK: __**``Не указано``**__
+- Steam: __**``Не указано``**__
 - Discord Server: __**``Не указано``**__
 
 ---

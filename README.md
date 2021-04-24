@@ -16,12 +16,8 @@ __**Спасибо, что открыл мой профиль**__
 
 ---
 ### Мои достижения
-- Создатель дискорд бота | __**``В РАЗРАБОТКЕ``**__.
+- Создатель дискорд бота | __**``В РАЗРАБОТКЕ``**__
 - JS разработчик.
-
-<a href="https://discord.gg/BUnYTtA3YB">
-  <img src="http://invidget.switchblade.xyz/BUnYTtA3YB" />
-</a>
 
 ---
 ### **Изучаемые языки**
@@ -34,5 +30,4 @@ __**Спасибо, что открыл мой профиль**__
 ![stats](https://github-readme-stats.vercel.app/api?username=ViNardle&show_icons=true&theme=dark)
 <br />
 <a href="https://wakatime.com/@ViNardle">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ViNardle&show_icons=true&hide_border=false&theme=dark&layout=compact">
 </a>

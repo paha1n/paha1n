@@ -28,7 +28,7 @@ __**Спасибо, что открыл его.**__
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 ---
-### **Различная статистика**
+### <img height="40" src="https://cdn.icon-icons.com/icons2/1206/PNG/512/1491254488-chartflexibledatestatstatistics_82950.png"> **Различная статистика**
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ViNardle&show_icons=true&theme=dark&locale=ru)
 <br />

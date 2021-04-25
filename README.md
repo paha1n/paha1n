@@ -34,6 +34,3 @@ __**Спасибо, что открыл его.**__
 <br />
 <a href="https://wakatime.com/@ViNardle">
 </a>
-<a href="https://wakatime.com/@ViNardle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ViNardle&show_icons=true&theme=dark" />
-</a> 

@@ -30,7 +30,7 @@ __**Спасибо, что открыл его.**__
 ---
 ### **Различная статистика**
 
-![stats](https://github-readme-stats.vercel.app/api?username=ViNardle&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=ViNardle&show_icons=true&theme=dark&locale=ru)
 <br />
 <a href="https://wakatime.com/@ViNardle">
 </a>

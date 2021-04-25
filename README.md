@@ -14,7 +14,7 @@ __**Спасибо, что открыл его.**__
 - <img height="15" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png"> YouTube: __**``Не указано``**__
 - <img height="15" src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147202-social-media-circled-network10_79475.png"> VK: __**``Не указано``**__
 - <img height="15" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/steam_logo_icon_144844.png"> Steam: __**``Не указано``**__
-- <img height="20" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/discord_94308.png"> Discord Server: __**``Не указано``**__
+- <img height="16" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/discord_94308.png"> Discord Server: __**``Не указано``**__
 
 ---
 ### Мои достижения
@@ -25,7 +25,7 @@ __**Спасибо, что открыл его.**__
 ---
 ### **Изучаемые языки**
 
-<img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 ---
 ### **Различная статистика**

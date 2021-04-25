@@ -19,7 +19,7 @@ __**Спасибо, что открыл его.**__
 ---
 ### Мои достижения
 - <img height="18" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_js_icon_130458.png"> Разработчик.
-- __**``Не указано``**__
+- <img height="18" src="https://media.istockphoto.com/vectors/dirty-grunge-hand-drawn-with-brush-strokes-cross-x-vector-isolated-vector-id1201202836?b=1&k=6&m=1201202836&s=170x170&h=yLSRrXpfleQGnxkvSK9sNXTM4-PYq5fI5Fv6nwRbLfE="> __**``Не указано``**__
 - __**``Не указано``**__
 
 ---

@@ -20,7 +20,7 @@ __**Спасибо, что открыл его.**__
 ### Мои достижения
 - <img height="18" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_js_icon_130458.png"> Разработчик.
 - <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__
-- __**``Не указано``**__
+- <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__
 
 ---
 ### **Изучаемые языки**

@@ -17,7 +17,7 @@ __**Спасибо, что открыл его.**__
 - <img height="15" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png"> Discord Server: __**``Не указано``**__
 
 ---
-### <img height="20" src="https://cdn.icon-icons.com/icons2/2064/PNG/512/first_badge_medal_reward_achievement_icon_124755.png"> Мои достижения
+### <img height="16" src="https://cdn.icon-icons.com/icons2/2026/PNG/512/achievement_badge_medal_ribbon_trophy_icon_123956.png"> Мои достижения
 - <img height="18" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_js_icon_130458.png"> Разработчик.
 - <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__
 - <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__

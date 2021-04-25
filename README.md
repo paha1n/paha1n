@@ -11,7 +11,7 @@ __**Спасибо, что открыл его.**__
 
 ---
 ### Информация
-- <img height="20" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png"> YouTube: __**``Не указано``**__
+- <img height="15" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png"> YouTube: __**``Не указано``**__
 - VK: __**``Не указано``**__
 - Steam: __**``Не указано``**__
 - Discord Server: __**``Не указано``**__

@@ -18,7 +18,7 @@ __**Спасибо, что открыл его.**__
 
 ---
 ### Мои достижения
-- <img height="12" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_js_icon_130458.png"> Разработчик.
+- <img height="14" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_js_icon_130458.png"> Разработчик.
 - __**``Не указано``**__
 - __**``Не указано``**__
 

@@ -11,7 +11,7 @@ __**Спасибо, что открыл его.**__
 
 ---
 ### Информация
-- <img height="48" src="https://github.com/burgyl/youtube-icon-link"> YouTube: __**``Не указано``**__
+- <img height="48" src="https://github.com/burgyl/youtube-icon-link/icon_48.png"> YouTube: __**``Не указано``**__
 - VK: __**``Не указано``**__
 - Steam: __**``Не указано``**__
 - Discord Server: __**``Не указано``**__

@@ -18,7 +18,7 @@ __**Спасибо, что открыл его.**__
 
 ---
 ### Мои достижения
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> **|** JS разработчик.
+- <img height="15" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_js_icon_130458.png"> JS разработчик.
 - __**``Не указано``**__
 - __**``Не указано``**__
 

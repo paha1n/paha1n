@@ -11,7 +11,7 @@ __**Спасибо, что открыл его.**__
 
 ---
 ### Информация
-- <img height="48" src="https://chrome.google.com/webstore/detail/youtube-logo-link/kjaidkbedipdlfdecahomknafpcffoeo"> YouTube: __**``Не указано``**__
+- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)] YouTube: __**``Не указано``**__
 - VK: __**``Не указано``**__
 - Steam: __**``Не указано``**__
 - Discord Server: __**``Не указано``**__

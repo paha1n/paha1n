@@ -24,7 +24,7 @@
 - <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__
 - <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__
 ---
-### <img height="15" src="https://cdn.icon-icons.com/icons2/1503/PNG/512/folder_103595.png"> **Мои проекты**
+### <img height="17" src="https://cdn.icon-icons.com/icons2/1503/PNG/512/folder_103595.png"> **Мои проекты**
 - <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__
 - <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__
 - <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__

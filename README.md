@@ -11,7 +11,7 @@
 `Люблю заниматься кодингом`
 
 ---
-### <img height="17" src="https://cdn.icon-icons.com/icons2/2346/PNG/512/info_information_icon_142931.png"> Информация
+### <img height="17" src="https://cdn.icon-icons.com/icons2/2346/PNG/512/info_information_icon_142931.png"> **Информация**
 - <img height="15" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png"> YouTube: __**``Не указано``**__
 - <img height="15" src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147202-social-media-circled-network10_79475.png"> VK: __**``Не указано``**__
 - <img height="15" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png"> Instagram: __**``Не указано``**__
@@ -19,10 +19,15 @@
 - <img height="15" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png"> Discord Server: __**``Не указано``**__
 
 ---
-### <img height="20" src="https://cdn.icon-icons.com/icons2/2574/PNG/512/reward_winner_achievements_achievement_icon_153862.png"> Мои достижения
+### <img height="20" src="https://cdn.icon-icons.com/icons2/2574/PNG/512/reward_winner_achievements_achievement_icon_153862.png"> **Мои достижения**
 - <img height="18" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_js_icon_130458.png"> Разработчик.
 - <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__
 - <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__
+---
+### <img height="17" src="https://user-images.githubusercontent.com/72504360/116131705-65bc0d80-a6d5-11eb-9aa8-fcdcfa63f3f7.png"> **Мои проекты**
+- <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__
+- <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__
+- - <img height="14" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_no_icon_157196.png"> __**``Не указано``**__
 
 ---
 ### <img height="16" src="https://cdn.icon-icons.com/icons2/1369/PNG/512/-language_89801.png"> **Изучаемые языки**

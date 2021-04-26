@@ -14,7 +14,7 @@
 ### <img height="17" src="https://cdn.icon-icons.com/icons2/2346/PNG/512/info_information_icon_142931.png"> Информация
 - <img height="15" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png"> YouTube: __**``Не указано``**__
 - <img height="15" src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147202-social-media-circled-network10_79475.png"> VK: __**``Не указано``**__
-- <img height="25" src="https://cdn.icon-icons.com/icons2/1269/PNG/512/1497553304-104_84834.png"> Instagram: __**``Не указано``**__
+- <img height="15" src="https://cdn.icon-icons.com/icons2/914/PNG/512/Instagram_Color_icon-icons.com_71811.png"> Instagram: __**``Не указано``**__
 - <img height="15" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/steam_logo_icon_144844.png"> Steam: __**``Не указано``**__
 - <img height="15" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png"> Discord Server: __**``Не указано``**__
 

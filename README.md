@@ -1,6 +1,6 @@
 ## [<img height="16" src="https://cdn.icon-icons.com/icons2/2962/PNG/512/apple_nature_leaf_fruit_icon_186015.png">] Приветик [<img height="16" src="https://cdn.icon-icons.com/icons2/2962/PNG/512/apple_nature_leaf_fruit_icon_186015.png">]
 
-<img height="18" src="https://cdn.icon-icons.com/icons2/2954/PNG/512/pin_angle_icon_184767.png"> __**Приветствую тебя на мoём профиле GitHub! | Мой профиль: [ViNardle](https://github.com/ViNardle)**__
+<img height="18" src="https://cdn.icon-icons.com/icons2/2954/PNG/512/pin_angle_icon_184767.png"> __**Приветствую тебя на мoём профиле GitHub!**__
 
 <img height="18" src="https://cdn.icon-icons.com/icons2/2954/PNG/512/pin_angle_icon_184767.png"> __**Спасибо, что открыл его.**__
 

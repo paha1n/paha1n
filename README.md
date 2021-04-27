@@ -1,12 +1,12 @@
 ## [<img height="16" src="https://cdn.icon-icons.com/icons2/2962/PNG/512/apple_nature_leaf_fruit_icon_186015.png">] Приветик [<img height="16" src="https://cdn.icon-icons.com/icons2/2962/PNG/512/apple_nature_leaf_fruit_icon_186015.png">]
 
-<img height="18" src="https://cdn.icon-icons.com/icons2/2954/PNG/512/pin_angle_icon_184767.png"> __**Приветствую тебя на мoём профиле GitHub!**__
+<img height="18" src="https://cdn.icon-icons.com/icons2/2954/PNG/512/pin_angle_icon_184767.png"> __**Приветствую тебя на мoём профиле GitHub! | Мой профиль: [ViNardle (https://github.com/ViNardle)**__
 
 <img height="18" src="https://cdn.icon-icons.com/icons2/2954/PNG/512/pin_angle_icon_184767.png"> __**Спасибо, что открыл его.**__
 
 ---
 ### <img height="16" src="https://cdn.icon-icons.com/icons2/935/PNG/512/user-info-interface-symbol-with-text-lines-at-right-side_icon-icons.com_73114.png"> Информация обо мне
-`Меня зовут — Паша` **|** 
+`Меня зовут Паша` **|** 
 `Мне 13 лет` **|** 
 `Люблю заниматься кодингом`
 

@@ -7,7 +7,7 @@
 ---
 ### <img height="16" src="https://cdn.icon-icons.com/icons2/935/PNG/512/user-info-interface-symbol-with-text-lines-at-right-side_icon-icons.com_73114.png"> Информация обо мне
 `Меня зовут Паша` **|** 
-`Мне 13 лет` **|** 
+`Мне 14 лет` **|** 
 `Люблю заниматься кодингом`
 
 ---

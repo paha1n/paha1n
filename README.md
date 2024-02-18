@@ -37,7 +37,7 @@
 ---
 ### <img height="16" src="https://cdn.icon-icons.com/icons2/1206/PNG/512/1491254488-chartflexibledatestatstatistics_82950.png"> **Различная статистика**
 
-![stats](https://github-readme-stats.vercel.app/api?username=ViNardle&show_icons=true&theme=dark&locale=ru)
+![stats](https://github-readme-stats.vercel.app/api?username=paha1n&show_icons=true&theme=dark&locale=ru)
 <br />
-<a href="https://wakatime.com/@ViNardle">
+<a href="https://wakatime.com/@paha1n">
 </a>

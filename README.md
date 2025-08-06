@@ -7,15 +7,15 @@
 ---
 ### <img height="16" src="https://cdn.icon-icons.com/icons2/935/PNG/512/user-info-interface-symbol-with-text-lines-at-right-side_icon-icons.com_73114.png"> Информация обо мне
 `Меня зовут Паша` **|** 
-`Мне 16 лет` **|** 
+`Мне 17 лет` **|** 
 `Люблю заниматься Кодингом`
 
 ---
 ### <img height="17" src="https://cdn.icon-icons.com/icons2/2346/PNG/512/info_information_icon_142931.png"> **Информация**
 - <img height="15" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png"> **YouTube:** __**``Не указано``**__
-- <img height="15" src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147202-social-media-circled-network10_79475.png"> **VK:** [Павел Баталко](https://vk.com/p.batalko)
-- <img height="15" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png"> **Instagram:** [paha1n](https://www.instagram.com/paha1n/)
-- <img height="15" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/steam_logo_icon_144844.png"> **Steam:** [paha1n](https://steamcommunity.com/id/paha1n)
+- <img height="15" src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147202-social-media-circled-network10_79475.png"> **VK:** __**``Не указано``**__
+- <img height="15" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png"> __**``Не указано``**__
+- <img height="15" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/steam_logo_icon_144844.png"> **Steam:** __**``Не указано``**__
 - <img height="15" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png"> **Discord Server:** __**``Не указано``**__
 
 ---
